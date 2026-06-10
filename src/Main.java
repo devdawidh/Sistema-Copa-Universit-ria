@@ -1,3 +1,8 @@
+// ALUNOS: 
+//DAVID SANTIAGO FERNANDES
+//GABRIEL MACHADO SANTOS
+//CAUÃ BARRETO SANTOS DE ALMEIDA
+
 import service.CompetitionService;
 import service.PlayerService;
 import service.TimeService;
